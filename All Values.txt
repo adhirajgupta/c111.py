@@ -1,0 +1,50 @@
+School 1 - 
+mean of sampling distribution:-  50.527433333333335
+Standard deviation of sampling distribution:-  5.157666682182301
+Mean of sample1:-  50.612
+The z score is =  0.016396303188573963
+
+School 1 sample - 
+mean of sampling distribution:-  50.39253333333333
+Standard deviation of sampling distribution:-  1.1411786713179415
+Mean of sample1:-  50.41
+The z score is =  0.015305812407527465
+
+(50.41 -50.527433333333335)/5.157666682182301 = -0.02276869378
+
+School 2 - 
+mean of sampling distribution:-  49.99653333333333
+Standard deviation of sampling distribution:-  5.18160521174164
+Mean of sample1:-  49.796
+The z score is =  -0.03870100579621915
+
+School 2 sample 2 - 
+mean of sampling distribution:-  55.3257
+Standard deviation of sampling distribution:-  0.6072418769663255
+Mean of sample1:-  55.33
+The z score is =  0.007081198058148899
+
+(55.33 - 49.99653333333333)/5.18160521174164 = 1.0293078011
+
+School 3 - 
+mean of sampling distribution:-  50.132666666666665
+Standard deviation of sampling distribution:-  5.249975409214114
+Mean of sample1:-  49.999
+The z score is =  -0.02546043671596398
+
+School 3 sample - 
+mean of sampling distribution:-  57.29886666666667
+Standard deviation of sampling distribution:-  0.32552558222428574
+Mean of sample1:-  57.29
+The z score is =  -0.027238002635874534
+
+(57.29 - 50.132666666666665)/5.249975409214114 = 1.36330797298
+
+
+
+
+
+
+
+
+
